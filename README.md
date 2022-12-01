@@ -1,7 +1,9 @@
 **Hi, I’m Dietmar Braun 👋**
 
 ... 👀 Always interested in new technologies, especially in web 
+
 ... ❤️ Working at frontend projects
+
 ... 🌱 I’m currently learning Blazor, Astro, etc.
 
 <!---
