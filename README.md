@@ -4,7 +4,7 @@
 
 ... ❤️ Working at frontend projects with **React**, **Ionic Framework**, **Electron**
 
-... :fireworks: Working with **C#**, **.Net** 
+... :fireworks: Working with **C#**, **.Net** (WPF, Xamarin / MAUI, Windows Services)
 
 ... 🌱 Currently working with **Astro**, **NextJS** in combination with Headless CMS like **TinaCMS**, **Strapi**, **Ghost** etc.
 
