@@ -4,7 +4,7 @@
 
 ... ❤️ Working at frontend projects
 
-... 🌱 I’m currently learning Blazor, Astro, etc.
+... 🌱 Currently working with Astro, NextJS in combination with Headless CMS like TinaCMS, Strapi, Ghost etc.
 
 <!---
 dietmar-braun/dietmar-braun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
