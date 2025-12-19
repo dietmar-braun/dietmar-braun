@@ -6,7 +6,7 @@
 
 ... :fireworks: Working with **C#**, **.Net** (WPF, Xamarin / MAUI, Windows Services)
 
-... 🌱 Currently working with **Astro**, **NextJS** in combination with Headless CMS like **TinaCMS**, **Strapi**, **Ghost** etc.
+... 🌱 Currently working with **Rust** & **Microservices**
 
 <!---
 dietmar-braun/dietmar-braun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
